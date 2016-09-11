@@ -72,8 +72,9 @@ Curriculum
           * [Think Bayes](http://www.greenteapress.com/thinkbayes/)[ (Downey) (f](http://www.greenteapress.com/thinkbayes/)ree!)
           * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (Davidson-PIlon) (free!)
           * [Data Analysis Using Regression and Multilevel-Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) (Gelman)
-  * <a name="Advanced-Statistics"></a>**Advanced**
-      * [Statistical Learning Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471030031.html) (Vapnik)
+  * <a name="Advanced-Statistics"></a>**Advanced
+      * Textbooks 
+          * [Statistical Learning Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471030031.html) (Vapnik)
 * <a name="Algorithms"></a>**Algorithms**
   * Textbooks
       * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
@@ -102,6 +103,7 @@ Curriculum
   * <a name="Deep-Learning"></a>**Deep Learning**
       * Textbooks
           * [Deep Learning](http://www.deeplearningbook.org) (Goodfellow, Bengio, and Courville) (draft: free!)
+          * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
       * Courses
           * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) (Coursera)
           * [IFT6266 – H2015 Representation Learning](https://ift6266h15.wordpress.com/) (Université de Montréal)
@@ -137,4 +139,5 @@ Curriculum
           * [Graduate Course](http://oxbridge-tutor.co.uk/graduate-econometrics-course/)
           * [Mathematical Methods for Economic Theory](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i) - University of Toronto
   * <a name="Optimization"></a>**Optimization**
-      * [An Introduction to Numerical Analysis](http://www.cambridge.org/gh/academic/subjects/mathematics/numerical-analysis/introduction-numerical-analysis-1?format=PB) (Süli and Mayers) - my first [applied math](https://en.wikipedia.org/wiki/Applied_mathematics) subject, it felt like a continuation of linear algebra (in fact, there was a fair amount of overlap). Probably not necessary unless you see yourself implementing numerical solvers in the future.
+      * Textbooks
+        * [An Introduction to Numerical Analysis](http://www.cambridge.org/gh/academic/subjects/mathematics/numerical-analysis/introduction-numerical-analysis-1?format=PB) (Süli and Mayers) - my first [applied math](https://en.wikipedia.org/wiki/Applied_mathematics) subject, it felt like a continuation of linear algebra (in fact, there was a fair amount of overlap). Probably not necessary unless you see yourself implementing numerical solvers in the future.

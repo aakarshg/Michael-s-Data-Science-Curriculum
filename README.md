@@ -1,7 +1,19 @@
 # Michael's Data Science Curriculum
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Michael's Data Science Curriculum</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://sites.google.com/site/michaelaalcorn/" property="cc:attributionName" rel="cc:attributionURL">Michael A. Alcorn</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+Table of Contents
+=================
+
+  * [Math](#Math)
+    * [Calculus](#Calculus)
+    * [Linear Algebra](#Linear-Algebra)
+    * [Differential Equations](#Differential-Equations)
+    * [Advanced](#Advanced)
+  * [Statistics/Probability Theory](#Statistics-Probability-Theory)
+  * [Dependency](#dependency)
+
 * [Michael’s Guide to Becoming a Data Scientist](https://github.com/airalcorn2/Michael-s-Guide-to-Becoming-a-Data-Scientist)
-* **Math**
+* Math<a name="Math"></a>
     * During my math studies, I learned that the [French have a reputation for the way that they teach math from a young age](https://www.quora.com/What-are-the-reasons-the-french-are-so-good-at-mathematics-What-are-some-best-practices-at-policy-level-in-school-or-university-that-could-be-emulated-in-a-developing-country), and I think I'm a fan.
     * **Calculus**
         * Textbooks

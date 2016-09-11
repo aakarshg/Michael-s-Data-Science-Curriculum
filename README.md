@@ -28,7 +28,7 @@ Table of Contents
     * [**Optimization**](#Optimization)
 
 Curriculum
-=================
+==========
 
 * [Michael’s Guide to Becoming a Data Scientist](https://github.com/airalcorn2/Michael-s-Guide-to-Becoming-a-Data-Scientist)
 * <a name="Math"></a>**Math**

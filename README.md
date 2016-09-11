@@ -4,18 +4,36 @@
 Table of Contents
 =================
 
-  * [Math](#Math)
-    * [Calculus](#Calculus)
-    * [Linear Algebra](#Linear-Algebra)
-    * [Differential Equations](#Differential-Equations)
-    * [Advanced](#Advanced)
-  * [Statistics/Probability Theory](#Statistics-Probability-Theory)
-  * [Dependency](#dependency)
+  * [**Math**](#Math)
+    * [**Calculus**](#Calculus)
+    * [**Linear Algebra**](#Linear-Algebra)
+    * [**Differential Equations**](#Differential-Equations)
+    * [**Advanced**](#Advanced-Math)
+  * [**Statistics/Probability Theory**](#Statistics-Probability-Theory)
+    * [**General**](#General-Statistics)
+    * [**Bayesian**](#Bayesian)
+    * [**Advanced**](#Advanced-Statistics)
+  * [**Algorithms**](#Algorithms)
+  * [**Machine Learning and Artificial Intelligence**](#Machine-Learning-and-Artificial-Intelligence)
+    * [**General**](#General-Machine-Learning)
+    * [**Natural Language Processing**](#Natural-Language-Processing)
+    * [**Deep Learning**](#Deep-Learning)
+    * [**Probabilistic Graphical Models**](#Probabilistic-Graphical-Models)
+  * [**Other Topics**](#Other-Topics)
+    * [**Soical Networks and Game Theory**](#Social-Networks-and-Game-Theory)
+    * [**Information Theory**](#Information-Theory)
+    * [**Digital Signal Processing**](#Digital-Signal-Processing)
+    * [**Big Data**](#Big-Data)
+    * [**Mathematical Economics/Econometrics**](#Mathematical-Economics-Econometrics)
+    * [**Optimization**](#Optimization)
+
+Curriculum
+=================
 
 * [Michael’s Guide to Becoming a Data Scientist](https://github.com/airalcorn2/Michael-s-Guide-to-Becoming-a-Data-Scientist)
-* Math<a name="Math"></a>
-    * During my math studies, I learned that the [French have a reputation for the way that they teach math from a young age](https://www.quora.com/What-are-the-reasons-the-french-are-so-good-at-mathematics-What-are-some-best-practices-at-policy-level-in-school-or-university-that-could-be-emulated-in-a-developing-country), and I think I'm a fan.
-    * **Calculus**
+* <a name="Math"></a>**Math**
+    * Over the course of my math studies, I learned that the [French have a reputation for the way that they teach math (starting from a young age)](https://www.quora.com/What-are-the-reasons-the-french-are-so-good-at-mathematics-What-are-some-best-practices-at-policy-level-in-school-or-university-that-could-be-emulated-in-a-developing-country), and I think I'm a fan.
+    * <a name="Calculus"></a>**Calculus**
         * Textbooks
             * [Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP001951.html) (Apostol) Apostol’s textbooks are classics for a reason. They are a great introduction to calculus and do an excellent job of developing intuition for limits and integrals.
             * [Calculus, Vol. 2: Multi-Variable Calculus and Linear Algebra with Applications to Differential Equations and Probability](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471000078.html) (Apostol)
@@ -24,43 +42,43 @@ Table of Contents
             * [MA102: Single-Variable Calculus II](https://legacy.saylor.org/ma102/Intro/) (Saylor Academy) - first two units were entirely redundant with the end of MA101. Unit 3 was fairly painful, with a lot of memorization of integration "tricks". Course felt like somewhat of a hodgepodge of different mathematical concepts without it being entirely clear why they were covered together (e.g., series, differential equations)
             * [18.02: Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) (MIT) - enjoyed the first two parts, but I got lazy around double line integrals. The physical applications of concepts like curl and flux are interesting, but I was ready to move on to linear algebra. As an aside, MIT uses a two course sequence to teach calculus and I agree that’s the way it should be done.
             * [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus) (Khan Academy) - Khan Academy produces extremely high quality content for a variety of subjects, and its offerings for multivariable calculus are no different.
-    * **Linear Algebra**
+    * <a name="Linear-Algebra"></a>**Linear Algebra**
         * Textbooks
             * [Linear Algebra and Its Applications](http://www.cengage.com/search/productOverview.do?N=16+4294922413+4294952008) (Strang) - linear algebra is probably my favorite math course. There is a lot of geometric intuition developed that is really satisfying, and the fact that linear algebra has tons of applications today doesn’t hurt. Strang is a great teacher and writer, and his texts are classics for a reason.
             * [Linear Algebra Done Right](http://linear.axler.net/) (Axler)
         * Courses
             * [Coding the Matrix: Linear Algebra through Computer Science Applications](http://codingthematrix.com/) (Coursera) - an excellent introduction to linear algebra that develops a deep understanding of the subject beyond just matrices and vectors.
-    * **Differential Equations**
+    * <a name="Differential-Equations"></a>**Differential Equations**
         * Textbooks
             * [Ordinary Differential Equations](http://store.doverpublications.com/0486649407.html) (Tenenbaum and Pollard) - differential equations is probably the only math subject that I didn’t enjoy. It took me probably two months of trying different materials before I finally just committed to this book. Nothing was engaging me. I think part of my problem with differential equations is that there are a lot of "tricks" involved in coming up with analytical solutions, but neither the process or end result is ever very satisfying. I also didn’t ever feel like I was gaining new insight or intuition, which is not how I felt about the other math subjects. If anyone has a reference that they feel really made differential equations “click” for them, I would love to hear about it. I also think the subject would be more enjoyable if it were taught in combination with a science… something like a “Differential Equations in Physics” course. Especially since most differential equations theory was motivated by the study of a physical system in the first place (as many of the biographical sketches of scientists and mathematicians in the book alluded to).
             * [Matrix DIfferential Equations with Applications in Statistics and Econometrics](http://www.wiley.com/WileyCDA/WileyTitle/productCd-047198633X.html) (Magnus and Neudecker) - if someone was trying to learn differential equations quickly and knew some linear algebra, I would tell them to skip Ordinary Differential Equations and to go straight to this book. Almost all interesting problems today involve many variables interacting in complex ways, so partial differential equations are the more relevant differential equations, and, in my opinion, they can be taught entirely independently of ODEs.
         * Courses
             * [Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-bux-math226-1x-0) (edX) - this is the first course in a three course sequence on differential equations, but I didn’t finish the later ones. I don’t know what it is about differential equations or they way I’ve seen them presented, but this course was very hard for me to get through.
-    * **Advanced**
+    * <a name="Advanced-Math"></a>**Advanced**
         * These courses are only necessary for those who want to achieve a deeper understanding of the mathematical rules behind machine learning/probability.
         * Textbooks
             * [Principles of Mathematical Analysis](http://www.mheducation.com/highered/product/principles-mathematical-analysis-rudin/007054235X.html) (Rudin) - analysis delves into the "why" of math and does so by deriving the existence of various mathematical concepts (e.g., the real and complex numbers, differentiation) from very simple initial building blocks (i.e., sets, addition, and multiplication). Like abstract algebra, it is an interesting subject, but it’s probably only practically relevant to individuals pursuing math at higher levels. Subjects that use some analysis for derivations/proofs will generally provide the necessary background.
             * [Topology](https://www.pearsonhighered.com/program/Munkres-Topology-2nd-Edition/PGM56881.html) (Munkres) - felt like a continuation of analysis. Fun to think about, not very practical for people not studying [spacetime](https://en.wikipedia.org/wiki/Minkowski_space).
             * [Algebra](https://www.pearsonhighered.com/program/Artin-Algebra-2nd-Edition/PGM218164.html) (Artin) - this was the first math subject I encountered where it was clear that it was mostly for people who wanted to pursue math at a higher level (just to clarify, the subject I’m discussing here is typically referred to as "[abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra)", so it’s not the same subject you learned in primary school). That is, there was very little that could be taken from this course and applied in non-mathematical settings. With that being said, the subject is really interesting, and there are some applications in computer science (e.g., monads in functional programming arise in [category theory](https://en.wikipedia.org/wiki/Category_theory), which is kind of like abstract abstract algebra).
-* **Statistics/Probability Theory**
-    * **General**
+* <a name="Statistics-Probability-Theory"></a>**Statistics/Probability Theory**
+    * <a name="General-Statistics"></a>**General**
         * Textbooks
             * [All of Statistics: A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/) (Wasserman)
             * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
-    * **Bayesian**
+    * <a name="Bayesian"></a>**Bayesian**
         * Textbooks
             * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (Gelman)
             * [Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan](https://sites.google.com/site/doingbayesiandataanalysis/) (Kruschke)
             * [Think Bayes](http://www.greenteapress.com/thinkbayes/)[ (Downey) (f](http://www.greenteapress.com/thinkbayes/)ree!)
             * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (Davidson-PIlon) (free!)
             * [Data Analysis Using Regression and Multilevel-Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) (Gelman)
-    * **Advanced**
+    * <a name="Advanced-Statistics"></a>**Advanced**
         * [Statistical Learning Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471030031.html) (Vapnik)
-* **Algorithms**
+* <a name="Algorithms"></a>**Algorithms**
     * Textbooks
         * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
-* **Machine Learning and Artificial Intelligence**
-    * **General**
+* <a name="Machine-Learning-and-Artificial-Intelligence"></a>**Machine Learning and Artificial Intelligence**
+    * <a name="General-Machine-Learning"></a>**General**
         * Textbooks
             * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) (Bishop)
             * [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/) (Murphy)
@@ -74,25 +92,25 @@ Table of Contents
             * [Machine Learning](https://www.coursera.org/learn/machine-learning) (Coursera)
             * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) (Udacity)
             * [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x) (edX)
-    * **Natural Language Processing**
+    * <a name="Natural-Language-Processing"></a>**Natural Language Processing**
         * Textbooks
             * [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/)
             * [Speech and Language Processing](http://www.cs.colorado.edu/~martin/slp.html)
         * Courses
             * [Natural Language Processing](https://www.coursera.org/course/nlangp) (Coursera)
             * [Natural Language Processing](https://www.coursera.org/course/nlp) (Coursera) (different one)
-    * **Deep Learning**
+    * <a name="Deep-Learning"></a>**Deep Learning**
         * Textbooks
             * [Deep Learning](http://www.deeplearningbook.org) (draft: free!)
         * Courses
             * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) (Coursera)
             * [IFT6266 – H2015 Representation Learning](https://ift6266h15.wordpress.com/) (Université de Montréal)
-    * **Probabilistic Graphical Models**
+    * <a name="Probabilistic-Graphical-Models"></a>**Probabilistic Graphical Models**
         * Textbooks
             * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/)
         * Courses
             * [Probabilistic Graphical Models](https://www.coursera.org/course/pgm) (Coursera)
-* **Other Topics**
+* <a name="Other-Topics"></a>**Other Topics**
     * **Social Networks and Game Theory**
         * [Networks, Crowds, and Markets: Reasoning about a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) (draft: free!)
     * **Information Theory**

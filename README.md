@@ -20,7 +20,7 @@ Table of Contents
     * [**Deep Learning**](#Deep-Learning)
     * [**Probabilistic Graphical Models**](#Probabilistic-Graphical-Models)
   * [**Other Topics**](#Other-Topics)
-    * [**Soical Networks and Game Theory**](#Social-Networks-and-Game-Theory)
+    * [**Social Networks and Game Theory**](#Social-Networks-and-Game-Theory)
     * [**Information Theory**](#Information-Theory)
     * [**Digital Signal Processing**](#Digital-Signal-Processing)
     * [**Big Data**](#Big-Data)
@@ -111,21 +111,21 @@ Curriculum
         * Courses
             * [Probabilistic Graphical Models](https://www.coursera.org/course/pgm) (Coursera)
 * <a name="Other-Topics"></a>**Other Topics**
-    * **Social Networks and Game Theory**
+    * <a name="Social-Networks-and-Game-Theory"></a>**Social Networks and Game Theory**
         * [Networks, Crowds, and Markets: Reasoning about a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) (draft: free!)
-    * **Information Theory**
+    * <a name="Information-Theory"></a>**Information Theory**
         * [Elements of Information Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html)
         * [Information Theory, Inference, and Learning Algorithms](http://www.inference.eng.cam.ac.uk/mackay/itila/book.html) (free!)
-    * **Digital Signal Processing**
+    * <a name="Digital-Signal-Processing"></a>**Digital Signal Processing**
         * [Foundations of Signal Processing](http://www.fourierandwavelets.org/) (free!)
-    * **Big Data**
+    * <a name="Big-Data"></a>**Big Data**
         * Textbooks
             * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec) (free!)
         * Courses
             * [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark) (edX)
             * [Introduction to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617) (Udacity)
             * [Algorithms for Big Data](http://grigory.us/big-data-class.html)
-    * **Mathematical Economics/****Econometrics**
+    * <a name="Mathematical-Economics-Econometrics"></a>**Mathematical Economics/Econometrics**
         * Textbooks
             * [Econometrics](http://press.princeton.edu/titles/6946.html)
             * [Fundamental Mathematics of Mathematical Economics](http://www.amazon.com/Fundamental-Methods-Mathematical-Economics-Wainwright/dp/0070109109)
@@ -133,5 +133,5 @@ Curriculum
             * [Undergraduate Course](http://oxbridge-tutor.co.uk/undergraduate-econometrics-course/)
             * [Graduate Course](http://oxbridge-tutor.co.uk/graduate-econometrics-course/)
             * [Mathematical Methods for Economic Theory](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i) - University of Toronto
-    * **Optimization**
+    * <a name="Optimization"></a>**Optimization**
         * [An Introduction to Numerical Analysis](http://www.cambridge.org/gh/academic/subjects/mathematics/numerical-analysis/introduction-numerical-analysis-1?format=PB) (Süli and Mayers) - my first [applied math](https://en.wikipedia.org/wiki/Applied_mathematics) subject, it felt like a continuation of linear algebra (in fact, there was a fair amount of overlap). Probably not necessary unless you see yourself implementing numerical solvers in the future.

@@ -120,15 +120,15 @@ Curriculum
         * [Foundations of Signal Processing](http://www.fourierandwavelets.org/) (free!)
     * <a name="Big-Data"></a>**Big Data**
         * Textbooks
-            * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec) (free!)
+            * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
         * Courses
             * [Data Science and Engineering with Apache Spark](https://www.edx.org/xseries/data-science-engineering-apache-spark) (edX)
             * [Introduction to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617) (Udacity)
             * [Algorithms for Big Data](http://grigory.us/big-data-class.html)
     * <a name="Mathematical-Economics-Econometrics"></a>**Mathematical Economics/Econometrics**
         * Textbooks
-            * [Econometrics](http://press.princeton.edu/titles/6946.html)
-            * [Fundamental Mathematics of Mathematical Economics](http://www.amazon.com/Fundamental-Methods-Mathematical-Economics-Wainwright/dp/0070109109)
+            * [Econometrics](http://press.princeton.edu/titles/6946.html) (Hayashi)
+            * [Fundamental Mathematics of Mathematical Economics](http://www.amazon.com/Fundamental-Methods-Mathematical-Economics-Wainwright/dp/0070109109) (Wainwright and Chang)
         * Courses
             * [Undergraduate Course](http://oxbridge-tutor.co.uk/undergraduate-econometrics-course/)
             * [Graduate Course](http://oxbridge-tutor.co.uk/graduate-econometrics-course/)

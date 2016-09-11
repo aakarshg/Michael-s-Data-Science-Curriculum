@@ -69,7 +69,7 @@ Curriculum
       * Textbooks
           * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (Gelman)
           * [Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan](https://sites.google.com/site/doingbayesiandataanalysis/) (Kruschke)
-          * [Think Bayes](http://www.greenteapress.com/thinkbayes/)[ (Downey) (f](http://www.greenteapress.com/thinkbayes/)ree!)
+          * [Think Bayes](http://www.greenteapress.com/thinkbayes/) (Downey) (free!)
           * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (Davidson-PIlon) (free!)
           * [Data Analysis Using Regression and Multilevel-Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) (Gelman)
   * <a name="Advanced-Statistics"></a>**Advanced**
@@ -83,7 +83,7 @@ Curriculum
       * Textbooks
           * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) (Bishop)
           * [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/) (Murphy)
-          * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+          * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (James et al)
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
           * [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) (Shalizi) (draft: free!)
           * [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) (Hastie, Tibshirani, and Friedman) (free!)
@@ -109,7 +109,7 @@ Curriculum
           * [IFT6266 – H2015 Representation Learning](https://ift6266h15.wordpress.com/) (Université de Montréal)
   * <a name="Probabilistic-Graphical-Models"></a>**Probabilistic Graphical Models**
       * Textbooks
-          * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/)
+          * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) (Koller and Friedman)
       * Courses
           * [Probabilistic Graphical Models](https://www.coursera.org/course/pgm) (Coursera)
 * <a name="Other-Topics"></a>**Other Topics**
@@ -122,7 +122,7 @@ Curriculum
       * [Information Theory, Inference, and Learning Algorithms](http://www.inference.eng.cam.ac.uk/mackay/itila/book.html) (MacKay) (free!)
   * <a name="Digital-Signal-Processing"></a>**Digital Signal Processing**
       * Textbooks
-        * [Foundations of Signal Processing](http://www.fourierandwavelets.org/) (free!)
+        * [Foundations of Signal Processing](http://www.fourierandwavelets.org/) (Vetterli, Kovačević, and Goyal) (draft: free!)
   * <a name="Big-Data"></a>**Big Data**
       * Textbooks
           * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
@@ -137,7 +137,7 @@ Curriculum
       * Courses
           * [Undergraduate Course](http://oxbridge-tutor.co.uk/undergraduate-econometrics-course/)
           * [Graduate Course](http://oxbridge-tutor.co.uk/graduate-econometrics-course/)
-          * [Mathematical Methods for Economic Theory](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i) - University of Toronto
+          * [Mathematical Methods for Economic Theory](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i) (University of Toronto)
   * <a name="Optimization"></a>**Optimization**
       * Textbooks
         * [An Introduction to Numerical Analysis](http://www.cambridge.org/gh/academic/subjects/mathematics/numerical-analysis/introduction-numerical-analysis-1?format=PB) (Süli and Mayers) - my first [applied math](https://en.wikipedia.org/wiki/Applied_mathematics) subject, it felt like a continuation of linear algebra (in fact, there was a fair amount of overlap). Probably not necessary unless you see yourself implementing numerical solvers in the future.

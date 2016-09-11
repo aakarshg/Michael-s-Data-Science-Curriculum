@@ -32,7 +32,7 @@ Curriculum
 
 * [Michael’s Guide to Becoming a Data Scientist](https://github.com/airalcorn2/Michael-s-Guide-to-Becoming-a-Data-Scientist)
 * <a name="Math"></a>**Math**
-  * Over the course of my math studies, I learned that the [French have a reputation for the way that they teach math (starting from a young age)](https://www.quora.com/What-are-the-reasons-the-french-are-so-good-at-mathematics-What-are-some-best-practices-at-policy-level-in-school-or-university-that-could-be-emulated-in-a-developing-country), and I think I'm a fan.
+  * Over the course of my math studies, I learned that the [French have a reputation for teaching math a particular way from a young age](https://www.quora.com/What-are-the-reasons-the-french-are-so-good-at-mathematics-What-are-some-best-practices-at-policy-level-in-school-or-university-that-could-be-emulated-in-a-developing-country), and I think I'm a fan.
   * <a name="Calculus"></a>**Calculus**
       * Textbooks
           * [Calculus, Vol. 1: One-Variable Calculus, with an Introduction to Linear Algebra](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP001951.html) (Apostol) Apostol’s textbooks are classics for a reason. They are a great introduction to calculus and do an excellent job of developing intuition for limits and integrals.

@@ -72,7 +72,7 @@ Curriculum
           * [Think Bayes](http://www.greenteapress.com/thinkbayes/)[ (Downey) (f](http://www.greenteapress.com/thinkbayes/)ree!)
           * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (Davidson-PIlon) (free!)
           * [Data Analysis Using Regression and Multilevel-Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) (Gelman)
-  * <a name="Advanced-Statistics"></a>**Advanced
+  * <a name="Advanced-Statistics"></a>**Advanced**
       * Textbooks 
           * [Statistical Learning Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471030031.html) (Vapnik)
 * <a name="Algorithms"></a>**Algorithms**

@@ -117,7 +117,7 @@ Curriculum
     *  Textbooks
       * [Networks, Crowds and Markets: Reasoning about a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) (Easley and Kleinberg) (draft: free!)
     *  Courses
-      *  [Networks, Crowds, and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2) (edX)
+      *  [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2) (edX)
   * <a name="Information-Theory"></a>**Information Theory**
     * Textbooks
       * [Elements of Information Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html) (Cover and Thomas)

@@ -100,6 +100,7 @@ Curriculum
       * Courses
           * [Natural Language Processing](https://www.coursera.org/course/nlangp) (Coursera)
           * [Natural Language Processing](https://www.coursera.org/course/nlp) (Coursera) (different one)
+          * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) (Stanford)
   * <a name="Deep-Learning"></a>**Deep Learning**
       * Textbooks
           * [Deep Learning](http://www.deeplearningbook.org) (Goodfellow, Bengio, and Courville) (draft: free!)

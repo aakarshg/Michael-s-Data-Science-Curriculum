@@ -14,7 +14,7 @@ Table of Contents
   * [**Bayesian**](#Bayesian)
   * [**Advanced**](#Advanced-Statistics)
 * [**Algorithms**](#Algorithms)
-* [**Machine Learning and Artificial Intelligence**](#Machine-Learning-and-Artificial-Intelligence)
+* [**Machine Learning/Artificial Intelligence**](#Machine-Learning-Artificial-Intelligence)
   * [**General**](#General-Machine-Learning)
   * [**Natural Language Processing**](#Natural-Language-Processing)
   * [**Deep Learning**](#Deep-Learning)
@@ -78,7 +78,7 @@ Curriculum
 * <a name="Algorithms"></a>**Algorithms**
   * Textbooks
       * [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms) (Cormen et al.)
-* <a name="Machine-Learning-and-Artificial-Intelligence"></a>**Machine Learning and Artificial Intelligence**
+* <a name="Machine-Learning-Artificial-Intelligence"></a>**Machine Learning/Artificial Intelligence**
   * <a name="General-Machine-Learning"></a>**General**
       * Textbooks
           * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) (Bishop)

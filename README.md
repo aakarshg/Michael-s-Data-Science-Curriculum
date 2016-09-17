@@ -86,7 +86,7 @@ Curriculum
       * Textbooks
           * [Pattern Recognition and Machine Learning](http://research.microsoft.com/en-us/um/people/cmbishop/prml/) (Bishop)
           * [Machine Learning: A Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/) (Murphy)
-          * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (James et al)
+          * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) (James et al.)
           * [Machine Learning](http://www.cs.cmu.edu/~tom/mlbook.html) (Mitchell)
           * [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) (Shalizi) (draft: free!)
           * [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) (Hastie, Tibshirani, and Friedman) (free!)

@@ -65,6 +65,7 @@ Curriculum
       * Textbooks
           * [All of Statistics: A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/) (Wasserman)
           * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
+          * [Probability Theory: The Logic of Science](http://www.cambridge.org/gh/academic/subjects/physics/theoretical-physics-and-mathematical-physics/probability-theory-logic-science?format=HB&isbn=9780521592710) (Jaynes) (draft: free!)
   * <a name="Bayesian"></a>**Bayesian**
       * Textbooks
           * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (Gelman)
@@ -101,8 +102,8 @@ Curriculum
           * [Foundations of Statistical Natural Language Processing](http://nlp.stanford.edu/fsnlp/) (Manning and Schütze)
           * [Speech and Language Processing](http://www.cs.colorado.edu/~martin/slp.html) (Jurafsky and Martin)
       * Courses
-          * [Natural Language Processing](https://www.coursera.org/course/nlangp) (Coursera)
-          * [Natural Language Processing](https://www.coursera.org/course/nlp) (Coursera) (different one)
+          * [Natural Language Processing](https://www.coursera.org/course/nlangp) (Coursera) - no longer offered. Course notes available [here](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html).
+          * [Natural Language Processing](https://www.coursera.org/course/nlp) (Coursera) (different one) - no longer offered on Coursera, but can be found on [Stanford's MOOC platform](http://online.stanford.edu/course/natural-language-processing).
           * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) (Stanford)
   * <a name="Deep-Learning"></a>**Deep Learning**
       * Textbooks
@@ -149,5 +150,6 @@ Curriculum
   * <a name="Optimization"></a>**Optimization**
       * Textbooks
         * [An Introduction to Numerical Analysis](http://www.cambridge.org/gh/academic/subjects/mathematics/numerical-analysis/introduction-numerical-analysis-1?format=PB) (Süli and Mayers) - my first [applied math](https://en.wikipedia.org/wiki/Applied_mathematics) subject, it felt like a continuation of linear algebra (in fact, there was a fair amount of overlap). Probably not necessary unless you see yourself implementing numerical solvers in the future.
+        * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
       * Courses
         * [Discrete Optimization](https://www.coursera.org/learn/optimization) (Coursera) - a challenging, but extremely rewarding course.

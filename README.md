@@ -140,7 +140,7 @@ Curriculum
           * [Algorithms for Big Data](http://grigory.us/big-data-class.html) (Indiana University)
           * [CMPSCI 711: More Advanced Algorithms](http://people.cs.umass.edu/~mcgregor/courses/CS711S12/) (University of Massachusetts)
           * [COSC 548 - Streaming Algorithms](http://people.seas.harvard.edu/~jthaler/COSC548.html) (Harvard University)
-          * [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
+          * [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) (Coursera)
   * <a name="Mathematical-Economics-Econometrics"></a>**Mathematical Economics/Econometrics**
       * Textbooks
           * [Econometrics](http://press.princeton.edu/titles/6946.html) (Hayashi)

@@ -68,11 +68,11 @@ Curriculum
           * [Probability Theory: The Logic of Science](http://www.cambridge.org/gh/academic/subjects/physics/theoretical-physics-and-mathematical-physics/probability-theory-logic-science?format=HB&isbn=9780521592710) (Jaynes) (draft: free!)
   * <a name="Bayesian"></a>**Bayesian**
       * Textbooks
-          * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (Gelman)
+          * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (Gelman et al.)
           * [Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan](https://sites.google.com/site/doingbayesiandataanalysis/) (Kruschke)
           * [Think Bayes](http://www.greenteapress.com/thinkbayes/) (Downey) (free!)
-          * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (Davidson-PIlon) (free!)
-          * [Data Analysis Using Regression and Multilevel-Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) (Gelman)
+          * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (Davidson-Pilon) (free!)
+          * [Data Analysis Using Regression and Multilevel-Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) (Gelman and Hill)
   * <a name="Advanced-Statistics"></a>**Advanced**
       * Textbooks
           * [Statistical Learning Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471030031.html) (Vapnik)
@@ -139,7 +139,7 @@ Curriculum
           * [Introduction to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617) (Udacity)
           * [Algorithms for Big Data](http://grigory.us/big-data-class.html) (Indiana University)
           * [CMPSCI 711: More Advanced Algorithms](http://people.cs.umass.edu/~mcgregor/courses/CS711S12/) (University of Massachusetts)
-          * [COSC 548 - Streaming Algorithms](http://people.seas.harvard.edu/~jthaler/COSC548.html) (Harvard University)
+          * [COSC 548 - Streaming Algorithms](http://people.seas.harvard.edu/~jthaler/COSC548.html) (Georgetown University)
           * [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) (Coursera)
   * <a name="Mathematical-Economics-Econometrics"></a>**Mathematical Economics/Econometrics**
       * Textbooks
@@ -154,4 +154,4 @@ Curriculum
         * [An Introduction to Numerical Analysis](http://www.cambridge.org/gh/academic/subjects/mathematics/numerical-analysis/introduction-numerical-analysis-1?format=PB) (Süli and Mayers) - my first [applied math](https://en.wikipedia.org/wiki/Applied_mathematics) subject, it felt like a continuation of linear algebra (in fact, there was a fair amount of overlap). Probably not necessary unless you see yourself implementing numerical solvers in the future.
         * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
       * Courses
-        * [Discrete Optimization](https://www.coursera.org/learn/optimization) (Coursera) - a challenging, but extremely rewarding course.
+        * [Discrete Optimization](https://www.coursera.org/learn/optimization) (Coursera) - a challenging but extremely rewarding course.

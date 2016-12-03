@@ -9,10 +9,14 @@ Table of Contents
   * [**Linear Algebra**](#Linear-Algebra)
   * [**Differential Equations**](#Differential-Equations)
   * [**Advanced**](#Advanced-Math)
+    * [**Analysis**](#Analysis)
+    * [**Topology**](#Topology)
+    * [**Abstract Algebra**](#Abstract-Algebra)
 * [**Statistics/Probability Theory**](#Statistics-Probability-Theory)
   * [**General**](#General-Statistics)
   * [**Bayesian**](#Bayesian)
   * [**Advanced**](#Advanced-Statistics)
+    * [**Statistical Learning Theory**](#Statistical-Learning-Theory)
 * [**Algorithms**](#Algorithms)
 * [**Machine Learning/Artificial Intelligence**](#Machine-Learning-Artificial-Intelligence)
   * [**General**](#General-Machine-Learning)
@@ -25,9 +29,10 @@ Table of Contents
   * [**Big Data**](#Big-Data)
   * [**Mathematical Economics/Econometrics**](#Mathematical-Economics-Econometrics)
   * [**Social Networks and Game Theory**](#Social-Networks-and-Game-Theory)
-  * [**Optimization**](#Optimization)
-  * [**Information Theory**](#Information-Theory)
-  * [**Digital Signal Processing**](#Digital-Signal-Processing)
+  * [**Advanced**](#Advanced-Other-Topics)
+    * [**Optimization**](#Optimization)
+    * [**Information Theory**](#Information-Theory)
+    * [**Digital Signal Processing**](#Digital-Signal-Processing)
 
 Curriculum
 ==========
@@ -58,9 +63,14 @@ Curriculum
           * [Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-bux-math226-1x-0) (edX) - this is the first course in a three course sequence on differential equations, but I didn't finish the later ones. I don't know what it is about differential equations or they way I've seen them presented, but this course was very hard for me to get through.
   * <a name="Advanced-Math"></a>**Advanced**
       * These subjects are only necessary for those who want to achieve a deeper understanding of the math behind machine learning/probability.
-      * Textbooks
-          * [Principles of Mathematical Analysis](http://www.mheducation.com/highered/product/principles-mathematical-analysis-rudin/007054235X.html) (Rudin) - analysis delves into the "why" of math and does so by deriving the existence of various mathematical concepts (e.g., the real and complex numbers, differentiation) from very simple initial building blocks (i.e., sets, addition, and multiplication). Like abstract algebra, it is an interesting subject, but it's probably only practically relevant to individuals pursuing math at higher levels. Subjects that use some analysis for derivations/proofs will generally provide the necessary background.
+      * <a name="Analysis"></a>**Analysis**
+        * Textbooks
+            * [Principles of Mathematical Analysis](http://www.mheducation.com/highered/product/principles-mathematical-analysis-rudin/007054235X.html) (Rudin) - analysis delves into the "why" of math and does so by deriving the existence of various mathematical concepts (e.g., the real and complex numbers, differentiation) from very simple initial building blocks (i.e., sets, addition, and multiplication). Like abstract algebra, it is an interesting subject, but it's probably only practically relevant to individuals pursuing math at higher levels. Subjects that use some analysis for derivations/proofs will generally provide the necessary background.
+      * <a name="Topology"></a>**Topology**
+        * Textbooks
           * [Topology](https://www.pearsonhighered.com/program/Munkres-Topology-2nd-Edition/PGM56881.html) (Munkres) - felt like a continuation of analysis. Fun to think about, not very practical for people not studying [spacetime](https://en.wikipedia.org/wiki/Minkowski_space).
+      * <a name="Abstract-Algebra"></a>**Abstract Algebra**
+        * Textbooks
           * [Algebra](https://www.pearsonhighered.com/program/Artin-Algebra-2nd-Edition/PGM218164.html) (Artin) - this was the first math subject I encountered where it was clear that it was mostly for people who wanted to pursue math at a higher level (just to clarify, the subject I'm discussing here is typically referred to as "[abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra)", so it's not the same subject you learned in primary school). That is, there was very little that could be taken from this subject and applied in non-mathematical settings. With that being said, the subject is really interesting, and there are some applications in computer science (e.g., monads and monoids, which are concepts in [category theory](https://en.wikipedia.org/wiki/Category_theory), also come up in [functional programming](https://en.wikipedia.org/wiki/Functional_programming)).
 * <a name="Statistics-Probability-Theory"></a>**Statistics/Probability Theory**
   * <a name="General-Statistics"></a>**General**
@@ -76,6 +86,7 @@ Curriculum
           * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) (Davidson-Pilon) (free!)
           * [Data Analysis Using Regression and Multilevel-Hierarchical Models](http://www.stat.columbia.edu/~gelman/arm/) (Gelman and Hill)
   * <a name="Advanced-Statistics"></a>**Advanced**
+    * <a name="Statistical-Learning-Theory"></a>**Statistical Learning Theory**
       * Textbooks
           * [Statistical Learning Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471030031.html) (Vapnik)
 * <a name="Algorithms"></a>**Algorithms**
@@ -151,16 +162,17 @@ Curriculum
     *  Courses
       * [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2) (edX)
       * [Game Theory](https://www.coursera.org/learn/game-theory-1) (Coursera)
-  * <a name="Optimization"></a>**Optimization**
+  * <a name="Advanced-Other-Topics"></a>**Advanced**
+    * <a name="Optimization"></a>**Optimization**
+        * Textbooks
+          * [An Introduction to Numerical Analysis](http://www.cambridge.org/gh/academic/subjects/mathematics/numerical-analysis/introduction-numerical-analysis-1?format=PB) (Süli and Mayers) - my first [applied math](https://en.wikipedia.org/wiki/Applied_mathematics) subject, it felt like a continuation of linear algebra (in fact, there was a fair amount of overlap). Probably not necessary unless you see yourself implementing numerical solvers in the future.
+          * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
+        * Courses
+          * [Discrete Optimization](https://www.coursera.org/learn/optimization) (Coursera) - a challenging but extremely rewarding course.
+    * <a name="Information-Theory"></a>**Information Theory**
       * Textbooks
-        * [An Introduction to Numerical Analysis](http://www.cambridge.org/gh/academic/subjects/mathematics/numerical-analysis/introduction-numerical-analysis-1?format=PB) (Süli and Mayers) - my first [applied math](https://en.wikipedia.org/wiki/Applied_mathematics) subject, it felt like a continuation of linear algebra (in fact, there was a fair amount of overlap). Probably not necessary unless you see yourself implementing numerical solvers in the future.
-        * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
-      * Courses
-        * [Discrete Optimization](https://www.coursera.org/learn/optimization) (Coursera) - a challenging but extremely rewarding course.
-  * <a name="Information-Theory"></a>**Information Theory**
-    * Textbooks
-      * [Elements of Information Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html) (Cover and Thomas)
-      * [Information Theory, Inference, and Learning Algorithms](http://www.inference.eng.cam.ac.uk/mackay/itila/book.html) (MacKay) (free!)
-  * <a name="Digital-Signal-Processing"></a>**Digital Signal Processing**
-      * Textbooks
-        * [Foundations of Signal Processing](http://www.fourierandwavelets.org/) (Vetterli, Kovačević, and Goyal) (draft: free!)
+        * [Elements of Information Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html) (Cover and Thomas)
+        * [Information Theory, Inference, and Learning Algorithms](http://www.inference.eng.cam.ac.uk/mackay/itila/book.html) (MacKay) (free!)
+    * <a name="Digital-Signal-Processing"></a>**Digital Signal Processing**
+        * Textbooks
+          * [Foundations of Signal Processing](http://www.fourierandwavelets.org/) (Vetterli, Kovačević, and Goyal) (draft: free!)

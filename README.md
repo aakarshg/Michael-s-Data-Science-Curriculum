@@ -17,16 +17,17 @@ Table of Contents
 * [**Machine Learning/Artificial Intelligence**](#Machine-Learning-Artificial-Intelligence)
   * [**General**](#General-Machine-Learning)
   * [**Natural Language Processing**](#Natural-Language-Processing)
-  * [**Deep Learning**](#Deep-Learning)
-  * [**Reinforcement Learning**](#Reinforcement-Learning)
-  * [**Probabilistic Graphical Models**](#Probabilistic-Graphical-Models)
+  * [**Advanced**](#Advanced-Machine-Learning)
+    * [**Deep Learning**](#Deep-Learning)
+    * [**Reinforcement Learning**](#Reinforcement-Learning)
+    * [**Probabilistic Graphical Models**](#Probabilistic-Graphical-Models)
 * [**Other Topics**](#Other-Topics)
-  * [**Social Networks and Game Theory**](#Social-Networks-and-Game-Theory)
-  * [**Information Theory**](#Information-Theory)
-  * [**Digital Signal Processing**](#Digital-Signal-Processing)
   * [**Big Data**](#Big-Data)
   * [**Mathematical Economics/Econometrics**](#Mathematical-Economics-Econometrics)
+  * [**Social Networks and Game Theory**](#Social-Networks-and-Game-Theory)
   * [**Optimization**](#Optimization)
+  * [**Information Theory**](#Information-Theory)
+  * [**Digital Signal Processing**](#Digital-Signal-Processing)
 
 Curriculum
 ==========
@@ -106,38 +107,26 @@ Curriculum
           * [Natural Language Processing](https://www.coursera.org/course/nlangp) (Coursera) - no longer offered. Course notes available [here](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html).
           * [Natural Language Processing](https://www.coursera.org/course/nlp) (Coursera) (different one) - no longer offered on Coursera, but can be found on [Stanford's MOOC platform](http://online.stanford.edu/course/natural-language-processing).
           * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) (Stanford)
-  * <a name="Deep-Learning"></a>**Deep Learning**
-      * Textbooks
-          * [Deep Learning](http://www.deeplearningbook.org) (Goodfellow, Bengio, and Courville) (draft: free!)
-          * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
-      * Courses
-          * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) (Coursera)
-          * [IFT6266 – H2015 Representation Learning](https://ift6266h15.wordpress.com/) (Université de Montréal)
-  * <a name="Reinforcement-Learning"></a>**Reinforcement Learning**
-      * Textbooks
-          * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) (Sutton and Barto) (draft: free!)
-      * Courses
-          * [COMPM050/COMPGI13: Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) (University College London)
-          * [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) (University of California, Berkeley)
-  * <a name="Probabilistic-Graphical-Models"></a>**Probabilistic Graphical Models**
-      * Textbooks
-          * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) (Koller and Friedman)
-      * Courses
-          * [Probabilistic Graphical Models](https://www.coursera.org/course/pgm) (Coursera)
+  * <a name="Advanced-Machine-Learning"></a>**Advanced**
+    * <a name="Deep-Learning"></a>**Deep Learning**
+        * Textbooks
+            * [Deep Learning](http://www.deeplearningbook.org) (Goodfellow, Bengio, and Courville) (draft: free!)
+            * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) (Nielsen) (free!)
+        * Courses
+            * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) (Coursera)
+            * [IFT6266 – H2015 Representation Learning](https://ift6266h15.wordpress.com/) (Université de Montréal)
+    * <a name="Reinforcement-Learning"></a>**Reinforcement Learning**
+        * Textbooks
+            * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) (Sutton and Barto) (draft: free!)
+        * Courses
+            * [COMPM050/COMPGI13: Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) (University College London)
+            * [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) (University of California, Berkeley)
+    * <a name="Probabilistic-Graphical-Models"></a>**Probabilistic Graphical Models**
+        * Textbooks
+            * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) (Koller and Friedman)
+        * Courses
+            * [Probabilistic Graphical Models](https://www.coursera.org/course/pgm) (Coursera)
 * <a name="Other-Topics"></a>**Other Topics**
-  * <a name="Social-Networks-and-Game-Theory"></a>**Social Networks and Game Theory**
-    *  Textbooks
-      * [Networks, Crowds and Markets: Reasoning about a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) (Easley and Kleinberg) (draft: free!)
-    *  Courses
-      * [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2) (edX)
-      * [Game Theory](https://www.coursera.org/learn/game-theory-1) (Coursera)
-  * <a name="Information-Theory"></a>**Information Theory**
-    * Textbooks
-      * [Elements of Information Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html) (Cover and Thomas)
-      * [Information Theory, Inference, and Learning Algorithms](http://www.inference.eng.cam.ac.uk/mackay/itila/book.html) (MacKay) (free!)
-  * <a name="Digital-Signal-Processing"></a>**Digital Signal Processing**
-      * Textbooks
-        * [Foundations of Signal Processing](http://www.fourierandwavelets.org/) (Vetterli, Kovačević, and Goyal) (draft: free!)
   * <a name="Big-Data"></a>**Big Data**
       * Textbooks
           * [Mining of Massive Datasets](http://www.mmds.org/) (Leskovec et al.) (free!)
@@ -156,9 +145,22 @@ Curriculum
           * [Undergraduate Course](http://oxbridge-tutor.co.uk/undergraduate-econometrics-course/)
           * [Graduate Course](http://oxbridge-tutor.co.uk/graduate-econometrics-course/)
           * [Mathematical Methods for Economic Theory](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i) (University of Toronto)
+  * <a name="Social-Networks-and-Game-Theory"></a>**Social Networks and Game Theory**
+    *  Textbooks
+      * [Networks, Crowds and Markets: Reasoning about a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) (Easley and Kleinberg) (draft: free!)
+    *  Courses
+      * [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2) (edX)
+      * [Game Theory](https://www.coursera.org/learn/game-theory-1) (Coursera)
   * <a name="Optimization"></a>**Optimization**
       * Textbooks
         * [An Introduction to Numerical Analysis](http://www.cambridge.org/gh/academic/subjects/mathematics/numerical-analysis/introduction-numerical-analysis-1?format=PB) (Süli and Mayers) - my first [applied math](https://en.wikipedia.org/wiki/Applied_mathematics) subject, it felt like a continuation of linear algebra (in fact, there was a fair amount of overlap). Probably not necessary unless you see yourself implementing numerical solvers in the future.
         * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
       * Courses
         * [Discrete Optimization](https://www.coursera.org/learn/optimization) (Coursera) - a challenging but extremely rewarding course.
+  * <a name="Information-Theory"></a>**Information Theory**
+    * Textbooks
+      * [Elements of Information Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html) (Cover and Thomas)
+      * [Information Theory, Inference, and Learning Algorithms](http://www.inference.eng.cam.ac.uk/mackay/itila/book.html) (MacKay) (free!)
+  * <a name="Digital-Signal-Processing"></a>**Digital Signal Processing**
+      * Textbooks
+        * [Foundations of Signal Processing](http://www.fourierandwavelets.org/) (Vetterli, Kovačević, and Goyal) (draft: free!)

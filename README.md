@@ -57,7 +57,7 @@ Curriculum
       * Courses
           * [Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-bux-math226-1x-0) (edX) - this is the first course in a three course sequence on differential equations, but I didn't finish the later ones. I don't know what it is about differential equations or they way I've seen them presented, but this course was very hard for me to get through.
   * <a name="Advanced-Math"></a>**Advanced**
-      * These courses are only necessary for those who want to achieve a deeper understanding of the mathematical rules behind machine learning/probability.
+      * These subjects are only necessary for those who want to achieve a deeper understanding of the math behind machine learning/probability.
       * Textbooks
           * [Principles of Mathematical Analysis](http://www.mheducation.com/highered/product/principles-mathematical-analysis-rudin/007054235X.html) (Rudin) - analysis delves into the "why" of math and does so by deriving the existence of various mathematical concepts (e.g., the real and complex numbers, differentiation) from very simple initial building blocks (i.e., sets, addition, and multiplication). Like abstract algebra, it is an interesting subject, but it's probably only practically relevant to individuals pursuing math at higher levels. Subjects that use some analysis for derivations/proofs will generally provide the necessary background.
           * [Topology](https://www.pearsonhighered.com/program/Munkres-Topology-2nd-Edition/PGM56881.html) (Munkres) - felt like a continuation of analysis. Fun to think about, not very practical for people not studying [spacetime](https://en.wikipedia.org/wiki/Minkowski_space).

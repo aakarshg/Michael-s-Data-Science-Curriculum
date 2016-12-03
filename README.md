@@ -18,6 +18,7 @@ Table of Contents
   * [**General**](#General-Machine-Learning)
   * [**Natural Language Processing**](#Natural-Language-Processing)
   * [**Deep Learning**](#Deep-Learning)
+  * [**Reinforcement Learning**](#Reinforcement-Learning)
   * [**Probabilistic Graphical Models**](#Probabilistic-Graphical-Models)
 * [**Other Topics**](#Other-Topics)
   * [**Social Networks and Game Theory**](#Social-Networks-and-Game-Theory)
@@ -112,6 +113,12 @@ Curriculum
       * Courses
           * [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) (Coursera)
           * [IFT6266 – H2015 Representation Learning](https://ift6266h15.wordpress.com/) (Université de Montréal)
+  * <a name="Reinforcement-Learning"></a>**Reinforcement Learning**
+      * Textbooks
+          * [Reinforcement Learning: An Introduction](http://webdocs.cs.ualberta.ca/~sutton/book/the-book.html) (Sutton and Barto) (draft: free!)
+      * Courses
+          * [COMPM050/COMPGI13: Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html) (University College London)
+          * [CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/) (University of California, Berkeley)
   * <a name="Probabilistic-Graphical-Models"></a>**Probabilistic Graphical Models**
       * Textbooks
           * [Probabilistic Graphical Models: Principles and Techniques](http://pgm.stanford.edu/) (Koller and Friedman)

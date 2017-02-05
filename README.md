@@ -169,12 +169,14 @@ Curriculum
           * [Convex Optimization](http://web.stanford.edu/~boyd/cvxbook/) (Boyd and Vandenberghe) (free!)
         * Courses
           * [Discrete Optimization](https://www.coursera.org/learn/optimization) (Coursera) - a challenging but extremely rewarding course.
+          * [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) (Stanford Online)
     * <a name="Information-Theory"></a>**Information Theory**
       * Textbooks
         * [Elements of Information Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html) (Cover and Thomas)
         * [Information Theory, Inference, and Learning Algorithms](http://www.inference.eng.cam.ac.uk/mackay/itila/book.html) (MacKay) (free!)
     * <a name="Digital-Signal-Processing"></a>**Digital Signal Processing**
         * Textbooks
+          * [Discrete-Time Signal Processing](https://www.pearsonhighered.com/program/Oppenheim-Discrete-Time-Signal-Processing-3rd-Edition/PGM212808.html) (Oppenheim and Schafer)
           * [Foundations of Signal Processing](http://www.fourierandwavelets.org/) (Vetterli, Kovačević, and Goyal) (draft: free!)
         * Courses
           * [Digital Signal Processing](https://www.coursera.org/learn/dsp) (Coursera)

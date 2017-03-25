@@ -72,12 +72,14 @@ Curriculum
       * <a name="Abstract-Algebra"></a>**Abstract Algebra**
         * Textbooks
           * [Algebra](https://www.pearsonhighered.com/program/Artin-Algebra-2nd-Edition/PGM218164.html) (Artin) - this was the first math subject I encountered where it was clear that it was mostly for people who wanted to pursue math at a higher level (just to clarify, the subject I'm discussing here is typically referred to as "[abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra)", so it's not the same subject you learned in primary school). That is, there was very little that could be taken from this subject and applied in non-mathematical settings. With that being said, the subject is really interesting, and there are some applications in computer science (e.g., monads and monoids, which are concepts in [category theory](https://en.wikipedia.org/wiki/Category_theory), also come up in [functional programming](https://en.wikipedia.org/wiki/Functional_programming)).
+          * [Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf) (Judson) (free!)
 * <a name="Statistics-Probability-Theory"></a>**Statistics/Probability Theory**
   * <a name="General-Statistics"></a>**General**
       * Textbooks
           * [All of Statistics: A Concise Course in Statistical Inference](http://www.stat.cmu.edu/~larry/all-of-statistics/) (Wasserman)
           * [OpenIntro Statistics](https://www.openintro.org/stat/index.php) (free!)
           * [Probability Theory: The Logic of Science](http://www.cambridge.org/gh/academic/subjects/physics/theoretical-physics-and-mathematical-physics/probability-theory-logic-science?format=HB&isbn=9780521592710) (Jaynes) (draft: free!)
+          * [Causal Inference](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/) (Hernán and Robins) (draft: free!)
   * <a name="Bayesian"></a>**Bayesian**
       * Textbooks
           * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) (Gelman et al.)

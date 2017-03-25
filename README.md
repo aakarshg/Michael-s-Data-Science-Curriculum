@@ -160,10 +160,10 @@ Curriculum
           * [Mathematical Methods for Economic Theory](http://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/int/i) (University of Toronto)
   * <a name="Social-Networks-and-Game-Theory"></a>**Social Networks and Game Theory**
     *  Textbooks
-      * [Networks, Crowds and Markets: Reasoning about a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) (Easley and Kleinberg) (draft: free!)
+       * [Networks, Crowds and Markets: Reasoning about a Highly Connected World](http://www.cs.cornell.edu/home/kleinber/networks-book/) (Easley and Kleinberg) (draft: free!)
     *  Courses
-      * [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2) (edX)
-      * [Game Theory](https://www.coursera.org/learn/game-theory-1) (Coursera)
+       * [Networks, Crowds and Markets](https://www.edx.org/course/networks-crowds-markets-cornellx-info2040x-2) (edX)
+       * [Game Theory](https://www.coursera.org/learn/game-theory-1) (Coursera)
   * <a name="Advanced-Other-Topics"></a>**Advanced**
     * <a name="Optimization"></a>**Optimization**
         * Textbooks

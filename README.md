@@ -12,6 +12,7 @@ Table of Contents
     * [**Analysis**](#Analysis)
     * [**Topology**](#Topology)
     * [**Abstract Algebra**](#Abstract-Algebra)
+    * [**Nonlinear Dynamics**](#Nonlinear-Dynamics)
 * [**Statistics/Probability Theory**](#Statistics-Probability-Theory)
   * [**General**](#General-Statistics)
   * [**Bayesian**](#Bayesian)
@@ -73,6 +74,11 @@ Curriculum
         * Textbooks
           * [Algebra](https://www.pearsonhighered.com/program/Artin-Algebra-2nd-Edition/PGM218164.html) (Artin) - this was the first math subject I encountered where it was clear that it was mostly for people who wanted to pursue math at a higher level (just to clarify, the subject I'm discussing here is typically referred to as "[abstract algebra](https://en.wikipedia.org/wiki/Abstract_algebra)", so it's not the same subject you learned in primary school). That is, there was very little that could be taken from this subject and applied in non-mathematical settings. With that being said, the subject is really interesting, and there are some applications in computer science (e.g., monads and monoids, which are concepts in [category theory](https://en.wikipedia.org/wiki/Category_theory), also come up in [functional programming](https://en.wikipedia.org/wiki/Functional_programming)).
           * [Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf) (Judson) (free!)
+      * <a name="Nonlinear-Dynamics"></a>**Nonlinear Dynamics**
+        * Textbooks
+          * [Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering ](http://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) (Strogatz)
+        * Courses
+          * [Nonlinear Dynamics: Mathematical and Computational Approaches](https://www.complexityexplorer.org/courses/60-nonlinear-dynamics-mathematical-and-computational-approaches-fall-2016) (Complexity Explorer) - an excellent course for developing some intuition for nonlinear dynamics. The only downside of the course is that there wasn't as much mathematical depth as I would've liked (by design, it seems), so it should be considered a complement to the Strogatz textbook.
 * <a name="Statistics-Probability-Theory"></a>**Statistics/Probability Theory**
   * <a name="General-Statistics"></a>**General**
       * Textbooks
@@ -172,6 +178,7 @@ Curriculum
         * Courses
           * [Discrete Optimization](https://www.coursera.org/learn/optimization) (Coursera) - a challenging but extremely rewarding course.
           * [Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about) (Stanford Online)
+          * [Machine Learning 10-725: Convex Optimization](http://www.stat.cmu.edu/~ryantibs/convexopt/) (Carnegie Mellon University)
     * <a name="Information-Theory"></a>**Information Theory**
       * Textbooks
         * [Elements of Information Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html) (Cover and Thomas)
